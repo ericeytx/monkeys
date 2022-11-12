@@ -6,6 +6,10 @@
 trigger:
 - main
 
+variables:
+    BuildConfiguration: Release
+    DotNetVersion: 6.0.300
+
 stages:
 - stage: BuildMacCatalyst
   jobs:
