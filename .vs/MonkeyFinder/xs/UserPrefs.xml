@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C60F2B1C-790E-4432-A719-52182A333ADE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MonkeyFinder PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MonkeyFinder" expanded="True">
+            <Node name="MonkeyFinder" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="net6.0-android" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+                <Node name="net6.0-ios" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+                <Node name="net6.0-maccatalyst" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
