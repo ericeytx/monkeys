@@ -42,8 +42,7 @@ stages:
       inputs:
         targetType: 'inline'
         script: |
-          cd 6.0/Apps/WeatherTwentyOne/src/
-          dotnet restore WeatherTwentyOne.sln
+          dotnet restore MonkeyFinder.sln
     # https://docs.microsoft.com/en-us/dotnet/maui/macos/deployment/overview
     - task: Bash@3
       displayName: Build MacCatalyst App
