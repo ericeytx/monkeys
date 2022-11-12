@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MonkeyFinder
+build_property.ProjectDir = /Users/ericeysermans/Documents/GitHub/monkeys/MonkeyFinder/
+
+[/Users/ericeysermans/Documents/GitHub/monkeys/MonkeyFinder/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/ericeysermans/Documents/GitHub/monkeys/MonkeyFinder/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/ericeysermans/Documents/GitHub/monkeys/MonkeyFinder/View/DetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.DetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View/DetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View/DetailsPage.xaml
+
+[/Users/ericeysermans/Documents/GitHub/monkeys/MonkeyFinder/View/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View/MainPage.xaml

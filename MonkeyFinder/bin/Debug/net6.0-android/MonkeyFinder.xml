@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MonkeyFinder</name>
+    </assembly>
+    <members>
+        <member name="P:MonkeyFinder.ViewModel.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.BaseViewModel.Title">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.BaseViewModel.title"/>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.Monkey">
+            <inheritdoc cref="F:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.monkey"/>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.openMapCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.OpenMapCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.OpenMapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeyDetailsViewModel.OpenMapAsync"/>.</summary>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.getClosestMonkeyCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetClosestMonkeyCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetClosestMonkeyCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeysViewModel.GetClosestMonkeyAsync"/>.</summary>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeysViewModel.GoToDetailsAsync(MonkeyFinder.Model.Monkey)"/>.</summary>
+        </member>
+        <member name="F:MonkeyFinder.ViewModel.MonkeysViewModel.getMonkeysCommand">
+            <summary>The backing field for <see cref="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysCommand"/>.</summary>
+        </member>
+        <member name="P:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MonkeyFinder.ViewModel.MonkeysViewModel.GetMonkeysAsync"/>.</summary>
+        </member>
+    </members>
+</doc>
